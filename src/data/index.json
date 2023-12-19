@@ -1,0 +1,42 @@
+{
+    "data":[
+    {
+     
+        "Home":[
+            {"intro":"Welcome to my Portfolio",
+            "Para":"I am a Web Developer/Technician"}
+        
+        ]
+    },
+    {
+        "About":[
+            {"Aintro":"About me and my Hobby's"}
+        
+        ]
+    },
+
+    {
+        "Services":[
+            {"Sintro":"The Services I can offer"}
+        
+        ]
+    },
+
+    {
+        "Project":[
+            
+            {"Pintro":"My Projects"}
+        ]
+    },
+    {
+        "Contact":[
+            
+            {"Cintro":"Contact me on..."}
+        
+        ]
+    }
+    
+
+]
+
+}
